@@ -1,0 +1,9 @@
+.container {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.botones-especiales{
+    background-color: blue;
+}
